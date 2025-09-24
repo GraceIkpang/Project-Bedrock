@@ -6,6 +6,7 @@ Author: Grace Ikpang – Cloud DevOps Engineer
 Institution: Altschool Africa – 3rd Semester Assessment
 
 Introduction
+
 This project documents the deployment of the Retail Store Sample Application to Amazon Elastic Kubernetes Service (EKS). Infrastructure was provisioned using Terraform, the application was deployed to the cluster, and exposed through an AWS Application Load Balancer (ALB) using Kubernetes Ingress.
 
 Demo Store: http://aea3412764bd5427186c0b6709b40507-1612858443.eu-west-2.elb.amazonaws.com/
